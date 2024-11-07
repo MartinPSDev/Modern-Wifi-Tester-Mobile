@@ -45,13 +45,6 @@ ns run ios      # for iOS (Mac only)
 
 ```
 
-### Development
-
-To start development:
-
-1. Make changes to the source code
-2. Run `ns run android` or `ns run ios` to test on a device/emulator
-3. Use `ns preview` for quick testing in the NativeScript Preview app
 
 ### Note
 
