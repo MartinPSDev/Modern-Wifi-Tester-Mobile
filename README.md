@@ -17,7 +17,7 @@ A modern WiFi password testing application built with React Native and NativeScr
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/MartinPSDev/Modern-Wifi-Tester-Mobile.git
 cd wifi-tester-pro
 ```
 
@@ -41,16 +41,8 @@ ns run ios      # for iOS (Mac only)
 - Real-time progress tracking
 - Support for special characters and leet speak
 
-### Project Structure
 
-```
-src/
-├── components/         # React components
-│   ├── MainStack.tsx  # Navigation setup
-│   ├── DictionaryGenerator.tsx
-│   └── PasswordTester.tsx
-├── NavigationParamList.ts  # Navigation types
-└── app.ts             # Entry point
+
 ```
 
 ### Development
